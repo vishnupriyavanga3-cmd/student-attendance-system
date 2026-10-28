@@ -41,3 +41,6 @@ This is a front-end demonstration. Student records are stored in JavaScript memo
 
 ## Purpose
 This project demonstrates basic web page structure, styling, form validation, and student record management using JavaScript.
+
+## Git Workflow Practice
+- Practiced feature branching and commits.
