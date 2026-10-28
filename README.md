@@ -44,3 +44,6 @@ This project demonstrates basic web page structure, styling, form validation, an
 
 ## Git Workflow Practice
 - Practiced feature branching and commits.
+
+## Collaboration Practice
+- Practiced cloning and collaborative development.
